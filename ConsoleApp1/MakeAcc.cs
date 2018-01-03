@@ -22,7 +22,7 @@ namespace ConsoleApp1
         List<string> disabled;
         List<string> changeUrl;
 
-        string dns1 = "dns20.onecloudy.xyz";
+        string dns1 = "ns1-libra.vivawebhost.com";
 
         internal void Close()
         {
@@ -32,7 +32,7 @@ namespace ConsoleApp1
 
           
 
-        string dns2 = "dns21.onecloudy.xyz";
+        string dns2 = "ns2-libra.vivawebhost.com";
 
         private string _email;
 
@@ -106,8 +106,8 @@ namespace ConsoleApp1
                     ns2.Clear();
                     ns2.SendKeys(dns2);
 
-                    
-
+                    dr.FindElementById("ns3").Clear();
+                    dr.FindElementById("ns4").Clear();
 
 
                     dr.FindElementByXPath("//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input").Click();
