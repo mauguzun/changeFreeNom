@@ -92,6 +92,7 @@ namespace ConsoleApp1
                     Thread.Sleep(2000);
                     dr.FindElementByCssSelector("#tabs > ul > li.dropdown.active.open > ul > li:nth-child(1) > a").Click();
                     Thread.Sleep(5000);
+                    dr.FindElementByXPath("//*[@id='tab3']/div/div[2]/div/form/p[1]/label[2]/input").Click();
                     string fist = dr.FindElementById("ns1").GetAttribute("value");
                    
 
