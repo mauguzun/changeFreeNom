@@ -12,18 +12,56 @@ namespace ConsoleApp1
 {
     class Program
     {
+
         static void Main(string[] args)
         {
 
             string[] emails = File.ReadAllLines("emails.txt");
 
-            foreach(string email in emails)
+            Console.WriteLine("use proxy");
+            string useProxy = Console.ReadLine();
+            string[] proxies = File.ReadAllLines("proxy.txt");
+
+            Console.WriteLine("open b ? y/n");
+            if (Console.ReadLine().Trim() == "y")
             {
-                MakeAcc acc = new MakeAcc();
-                acc.MakeLogin(email);
-                acc.ChangeUrl();
-                acc.Close();
+                int max = 0; 
+                foreach (string oneProxy in proxies)
+                {
+                    if (max > 5)
+                        break;
+
+                    MakeAcc acc = new MakeAcc() { Proxy = oneProxy };
+                    acc.Init();
+                    acc.SetUri("http://freenom.com");
+                    max++;
+                }
+                Console.ReadKey();
             }
+            else
+            {
+                foreach (string email in emails)
+                {
+                    MakeAcc acc = null;
+                    if (useProxy.Trim() == "y")
+                    {
+                        acc = new MakeAcc() { Proxy = proxies[0] };
+                    }
+                    else
+                    {
+                        acc = new MakeAcc();
+                    }
+
+                    acc.Init();
+                    acc.MakeLogin(email);
+                    acc.ChangeUrl();
+                    // acc.Close();
+                }
+            }
+
+            
+
+           
 
 
             

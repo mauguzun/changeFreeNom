@@ -15,9 +15,10 @@ namespace ConsoleApp1
         string login = "https://my.freenom.com/clientarea.php";
         string filename = "result.txt";
         string error = "error.txt";
-        
 
-        private ChromeDriver dr;
+
+        public ChromeDriver dr;
+        public string Proxy { get; set; } = null;
 
         List<string> disabled;
         List<string> changeUrl;
@@ -33,17 +34,35 @@ namespace ConsoleApp1
           
 
         string dns2 = "ns2-libra.vivawebhost.com";
-
+        
         private string _email;
 
         public MakeAcc()
         {
-            this.changeUrl = new List<string>();
-            disabled = new List<string>();
-
-            _SetupDisabled();
+            
 
         }
+        public void Init()
+        {
+            if (Proxy != null)
+            {
+                ChromeOptions option = new ChromeOptions();
+                option.AddArgument($"--proxy-server={Proxy}");
+                dr = new ChromeDriver(option);
+            }
+            else
+            {
+                dr = new ChromeDriver();
+            }
+
+
+
+            var wait = new WebDriverWait(dr, TimeSpan.FromSeconds(30));
+            this.changeUrl = new List<string>();
+            disabled = new List<string>();
+            _SetupDisabled();
+        }
+        
 
         private void _SetupDisabled()
         {
@@ -57,8 +76,7 @@ namespace ConsoleApp1
         {
             this._email = @email;
            
-            dr = new ChromeDriver();
-            var wait = new WebDriverWait(dr, TimeSpan.FromSeconds(30));
+           
 
             this.dr.Url = login;
             dr.FindElementById("username").SendKeys(@email);
@@ -79,7 +97,11 @@ namespace ConsoleApp1
 
             
         }
-
+      
+        public void SetUri(string url)
+        {
+            this.dr.Url = url;
+        }
 
         public void ChangeUrl()
         {
@@ -111,7 +133,7 @@ namespace ConsoleApp1
                     dr.FindElementById("ns4").Clear();
 
 
-                    dr.FindElementByXPath("//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input").Click();
+                    dr.FindElementByCssSelector(".mediumBtn").Click();
                     Thread.Sleep(5000);
 
                     var domain = dr.FindElementByCssSelector("h1.primaryFontColor").Text.Replace("Managing","").Trim();
