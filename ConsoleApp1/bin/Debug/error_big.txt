@@ -1,51 +1,36 @@
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138817:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138818:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138819:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138820:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138821:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138822:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138823:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138817:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138818:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138817:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138818:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138819:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138820:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138821:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138822:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138823:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='tab3']/div/div[2]/div/form/fieldset/div[6]/p/input"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
-https://my.freenom.com/clientarea.php?action=domaindetails&id=1040138818:dinmobilwebapprel@gmail.com:no such element: Unable to locate element: {"method":"css selector","selector":"#tabs > ul > li.dropdown.active.open > ul > li:nth-child(1) > a"}
-  (Session info: chrome=65.0.3325.181)
-  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1044966635:dshabalin@lifa.lv:no such element: Unable to locate element: {"method":"css selector","selector":"h1.primaryFontColor"}
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1044966637:dshabalin@lifa.lv:no such element: Unable to locate element: {"method":"css selector","selector":"a.dropdown-toggle.dropDown"}
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1044966639:dshabalin@lifa.lv:no such element: Unable to locate element: {"method":"css selector","selector":"a.dropdown-toggle.dropDown"}
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1045722003:example@antikvar.lv:invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1045722004:example@antikvar.lv:invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1045722005:example@antikvar.lv:invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1045722006:example@antikvar.lv:invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1045722007:example@antikvar.lv:invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1045722008:example@antikvar.lv:invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1045722009:example@antikvar.lv:invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1045722008:example@antikvar.lv:invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1045722009:example@antikvar.lv:invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.17134 x86_64)

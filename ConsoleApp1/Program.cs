@@ -20,7 +20,9 @@ namespace ConsoleApp1
 
             Console.WriteLine("use proxy");
             string useProxy = Console.ReadLine();
-            string[] proxies = File.ReadAllLines("proxy.txt");
+            string[] proxies = new GetProxy.ProxyReader().GetList().ToArray();
+
+            Console.WriteLine(proxies.Count());
 
             Console.WriteLine("open b ? y/n");
             if (Console.ReadLine().Trim() == "y")
